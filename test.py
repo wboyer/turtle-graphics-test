@@ -1,6 +1,6 @@
 from turtle import *
 
-color('green', 'blue')
+color('black', 'purple')
 speed(11)
 
 step = 20
